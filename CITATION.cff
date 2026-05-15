@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "ARIMA selection paper: code"
+type: software
+authors:
+  - family-names: "Puertas Garcia Lorenti"
+    given-names: "Pérsio"
+  - family-names: "Henrique Marco Detzel"
+    given-names: "Daniel"
+license: MIT
+repository-code: "https://github.com/persiou/arima-selection-paper"
+preferred-citation:
+  type: article
+  title: "Comparison of methods for ARIMA model identification"
+  authors:
+    - family-names: "Puertas Garcia Lorenti"
+      given-names: "Pérsio"
+    - family-names: "Henrique Marco Detzel"
+      given-names: "Daniel"
+  journal: ""
+  year: 2026
+  doi: ""
