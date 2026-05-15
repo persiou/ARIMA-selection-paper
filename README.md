@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1239955663.svg)](https://doi.org/10.5281/zenodo.20214946)
+
 # ARIMA selection paper — code
 
 Code accompanying:
