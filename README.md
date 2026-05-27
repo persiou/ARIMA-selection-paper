@@ -5,7 +5,7 @@
 Code accompanying:
 
 > Pérsio Puertas Garcia Lorenti and Daniel Henrique Marco Detzel (2026). Comparison of methods for ARIMA model
-> identification.
+> identification in daily streamflow forecasting.
 > DOI: "".
 
 The study compares four ARIMA order selection methods (AIC, BIC, repeated
