@@ -11,7 +11,7 @@ license: MIT
 repository-code: "https://github.com/persiou/arima-selection-paper"
 preferred-citation:
   type: article
-  title: "Comparison of methods for ARIMA model identification"
+  title: "Comparison of methods for ARIMA model identification in daily streamflow forecasting"
   authors:
     - family-names: "Puertas Garcia Lorenti"
       given-names: "Pérsio"
